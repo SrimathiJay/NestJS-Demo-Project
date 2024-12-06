@@ -1,0 +1,4 @@
+yarn add eslint-config-prettier -D // to fix eslint prettier package
+nest g service tasks --no-spec
+nest g controller tasks --no-spec
+uuid: yarn add uuid
